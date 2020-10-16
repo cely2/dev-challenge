@@ -11,3 +11,10 @@ Criar um site simples que use os dados dessa [API Fipe](https://deividfortuna.gi
 - Redux
 - Redux/Saga
 - Testes automatizados
+
+## Diferencial
+Todos os items abaixo são considerados um **plus** e não requisitos:
+
+- GraphQL
+- Docker
+- Documentação do projeto com alguma ferramenta de mercado
