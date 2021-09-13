@@ -2,7 +2,7 @@
 
 ## Live coding
 O processe de live coding avalia a criação de pequenas funçoões e scripts.
-Leva em consideração não o código desenvolvido mas o fluxo de raciocinio do candidato
+Leva em consideração não o código desenvolvido mas o fluxo de raciocinio da pessoa candidata
 e as técnicas utilizadas.
 
 
